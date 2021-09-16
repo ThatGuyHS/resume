@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build:pdf": "resume export resume.pdf",
+    "build:html": "resume export resume.html"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "resume-cli": "^3.0.5"
+  }
+}

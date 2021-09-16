@@ -1,0 +1,118 @@
+{
+    "meta": { "theme": "elegant" },
+    "basics":{
+       "name":"Adam Peleback",
+       "label":"QA Developer",
+       "image":"",
+       "email":"adampeleback@gmail.com",
+       "phone":"+46707685504",
+       "url":"adampeleback.com",
+       "summary":"A summary of Adam Peleback",
+       "location":{
+          "address":"Bandhagsplan 11",
+          "postalCode":"124 32",
+          "city":"Stockholm",
+          "countryCode":"SWE",
+          "region":"Bandhagen"
+       },
+       
+       "profiles":[
+          {
+             "network":"Linkedin",
+             "username":"Adam Peleback",
+             "url":"https://www.linkedin.com/in/adam-p-507593113/"
+          }
+       ]
+    },
+    "work":[
+       {
+          "name":"Znipe Esports",
+          "position":"Esports copywriter",
+          "url":"https://znipe.tv",
+          "startDate":"2017-01-01",
+          "endDate":"2018-04-01",
+          "summary":"Description…",
+          "highlights":[
+             "Wrote all written content for Znipe Productions, as well as Press Releases for the management"
+          ]
+       },
+       {
+          "name":"Crimson Esports",
+          "position":"Director of Social Media and Written Content",
+          "url":"https://twitter.com/esports_crimson",
+          "startDate":"2017-11-01",
+          "endDate":"2018-05-01",
+          "summary":"Description…",
+          "highlights":[
+             "Managed social media accounts as well as all written content for Dutch esports organization Crimson Esports."
+          ]
+       },
+       {
+          "name":"Phoenix Blue",
+          "position":"Board Member and Head of Content",
+          "url":"https://pxb.gg",
+          "startDate":"2017-01-01",
+          "endDate":"",
+          "summary":"Description…",
+          "highlights":[
+             "I have been part of the board for Phoenix Blue since the beginning, and am currently in charge of all written content for the non profit association."
+          ]
+       },
+       {
+          "name":"G Loot Global Esports AB",
+          "position":"Board Member and Head of Content",
+          "url":"https://gloot.com",
+          "startDate":"2017-08-01",
+          "endDate":"",
+          "summary":"Description…",
+          "highlights":[
+             "I work as a QA Developer. I am in charge of all manual and automated testing. My main focus is developing a testsuite for the frontend projects we operate."
+          ]
+       }
+    ],
+    "education":[
+       {
+          "institution":"Upper Secondary School",
+          "url":"https://sodralatinsgymnasium.stockholm.se/",
+          "area":"Social Sciences",
+          "startDate":"2011-01-01",
+          "endDate":"2013-01-01"
+       }
+    ],
+    "skills":[
+       {
+          "name":"Quality Assurance",
+          "level":"Intermediate",
+          "keywords":[
+             "Test automation",
+             "Cypress",
+             "JavaScript",
+             "Manual testing"
+          ]
+       }
+    ],
+    "languages":[
+       {
+          "language":"Swedish",
+          "fluency":"Native speaker"
+       },
+       {
+          "language":"English",
+          "fluency":"Fluent speaker"
+       },
+       {
+          "language":"Spanish",
+          "fluency":"Relative beginner"
+       }
+    ],
+    "references":[
+       {
+          "name":"Mattin Lotfi",
+          "reference":"Reference…"
+       },
+       {
+          "name":"Walid Sodki",
+          "reference":"Reference…"
+       }
+    ]
+ }
